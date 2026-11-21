@@ -1,0 +1,8 @@
+{
+  "name": "Gestor de Visitas MIPERSA",
+  "description": "Plataforma centralizada de MIPERSA para programar, aprobar, coordinar agenda de asesores técnicos, prevenir cruces de traslado y emitir reportes de visitas comerciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
